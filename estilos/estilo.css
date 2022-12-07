@@ -32,14 +32,22 @@ body{
     display: flex;
     flex-direction: column;
     text-align: center;
+    font-weight: 900;
     
     align-items: center;
     font-family: 'Roboto Slab', serif;
-    color: blue;
+    color: rgb(0, 0, 0);
     
     margin: 5rem;
 
+   
+
     
+}
+
+.linha{
+    border-top: 4px solid rgb(226, 152, 13);
+
 }
 
 
